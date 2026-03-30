@@ -51,16 +51,6 @@ This project analyzes a dataset of ~3000 movies to help a producer make data-dri
 
 ---
 
-## Run the Project
-
-```bash
-git clone https://github.com/your-username/movie-analysis.git
-cd movie-analysis
-pip install -r requirements.txt
-jupyter notebook
-```
-
----
 
 ## Outcome
 
